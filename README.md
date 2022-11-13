@@ -1,11 +1,13 @@
 - Hi, I’m @Asfand-S.
 - I’m a Cyber Security Student at FAST NUCES.
 - I’m interested in CTFs, AWS, Cloud security and products/projects of these domains.
-- I’m currently learning beginner course of AWS and practicing for CTFs.
+- I’m currently learning beginner course of AWS, Penetration Testing and Automation.
 - I’m looking to collaborate on beginner level Security tools and projects.
 - Reach me at 
-- muhammadasfand2001@gmail.com
-- linkedin.com/in/muhammad-asfand-030332243
+
+muhammadasfand2001@gmail.com
+
+[linkedin.com/in/muhammad-asfand-030332243](linkedin.com/in/muhammad-asfand)
 
 <!---
 Asfand-S/Asfand-S is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
