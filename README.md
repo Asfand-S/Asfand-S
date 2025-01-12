@@ -1,8 +1,7 @@
-- Hi, I’m @Asfand-S.
-- I’m a Cyber Security Student at FAST NUCES.
-- I’m interested in CTFs, AWS, Cloud security and products/projects of these domains.
-- I’m currently learning beginner course of AWS, Penetration Testing and Automation.
-- I’m looking to collaborate on beginner level Security tools and projects.
+- Hi, I’m Muhammad Asfand.
+- I’m a Freelance Developer with experience in making Desktop, Web and Mobile Apps for all platforms.
+- Technologies I mainly work on are Python and Flutter.
+- If you need an App to automate, streamline or improve your business activities or even your personal tasks, I'm your guy.
 - Reach me at 
 
 muhammadasfand2001@gmail.com
