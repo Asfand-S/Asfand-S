@@ -4,7 +4,7 @@
 - If you need an App to automate, streamline or improve your business activities or even your personal tasks, I'm your guy.
 - Reach me at 
 
-muhammadasfand2001@gmail.com
+asfanddesktop@gmail.com
 
 <!---
 Asfand-S/Asfand-S is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
